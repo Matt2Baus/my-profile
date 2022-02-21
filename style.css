@@ -1,0 +1,81 @@
+body  {
+  background-color: #F1F2F5 ;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 19px;
+  color: white;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: 'Shizuru', cursive;
+  color: black;
+}
+h1:hover {
+  color: #2B00D4;
+}
+
+
+.container {
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+
+}
+
+.card-white {
+  background-color: #2B00D4 ;
+  padding: 50px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+  border-radius: 6px;
+  margin: 25px 0px;
+  text-align: center ;
+
+
+}
+
+#img-circle {
+  width: 70%;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.5);
+
+}
+
+.bt-yellow {
+  font-family: 'Shizuru', cursive;
+  font-size: 40px;
+  text-decoration: none;
+  color: black ;
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+
+}
+ .list-inline {
+  list-style: none;
+  padding-left: 0px;
+  ;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 15px;
+
+
+}
+
+.list-inline i {
+  font-size: 40px;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+
+
+// #2B00D4
+
+{
+}
